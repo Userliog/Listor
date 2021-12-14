@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Ny mapp\Listor\bin\Debug\net5.0\Listor.exe
+C:\Users\Admin\Documents\Ny mapp\Listor\bin\Debug\net5.0\Listor.deps.json
+C:\Users\Admin\Documents\Ny mapp\Listor\bin\Debug\net5.0\Listor.runtimeconfig.json
+C:\Users\Admin\Documents\Ny mapp\Listor\bin\Debug\net5.0\Listor.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Ny mapp\Listor\bin\Debug\net5.0\Listor.dll
+C:\Users\Admin\Documents\Ny mapp\Listor\bin\Debug\net5.0\ref\Listor.dll
+C:\Users\Admin\Documents\Ny mapp\Listor\bin\Debug\net5.0\Listor.pdb
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\Listor.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\Listor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\Listor.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\Listor.AssemblyInfo.cs
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\Listor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\Listor.dll
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\ref\Listor.dll
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\Listor.pdb
+C:\Users\Admin\Documents\Ny mapp\Listor\obj\Debug\net5.0\Listor.genruntimeconfig.cache
